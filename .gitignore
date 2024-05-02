@@ -1,0 +1,5 @@
+/swiggy/swiggy/.env 
+/swiggy/swiggy/__pycache__/
+/swiggy/restaurants/__pycache__/
+/swiggy/db.sqlite3
+/venv/
